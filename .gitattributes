@@ -1,0 +1,7 @@
+# Normaliza finales de línea automáticamente
+* text=auto
+
+# Asegura que los archivos .ipynb usen LF siempre
+*.ipynb text eol=lf
+
+
